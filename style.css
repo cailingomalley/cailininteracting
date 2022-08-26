@@ -1,0 +1,51 @@
+body {
+  background-color: #000000;
+}
+
+h1 {
+  color: white;
+  font-family: 'Forum', cursive;
+  text-align: center;
+  letter-spacing: 30px;
+  font-size: 60px;
+  padding-bottom: 60px;
+}
+
+.sketch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.project1 {
+  color: white;
+  float: left;
+  text-align: justify;
+  padding-left: 20px;
+  font-family: 'Forum', cursive;
+}
+
+.project2 {
+  color: white;
+  float: inherit;
+  font-family: 'Forum', cursive;
+}
+
+.project3 {
+  color: white;
+  float: inherit;
+  font-family: 'Forum', cursive;
+}
+
+.project4 {
+  color: white;
+  float: right;
+  padding-right: 20px;
+  font-family: 'Forum', cursive;
+}
+
+.bio {
+  color: white;
+  font-family: 'Forum', cursive;
+  text-align: center;
+}
